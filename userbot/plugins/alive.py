@@ -34,7 +34,7 @@ pm_caption += "Python: 3.7.3"
 pm_caption += "Bot created by: SnapDragon, @opgohil"
 
 pm_caption += "My peru owner: @GUJJUOPGOHIL"
-pm_caption += "I Talk To YöU 😠
+pm_caption += f"I Talk To YöU 😠"
 pm_caption += "Bol kya kam he Bhadve (‘_’)"
 
 
