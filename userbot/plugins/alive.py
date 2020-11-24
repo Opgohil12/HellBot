@@ -14,22 +14,28 @@ else:
 
 kraken = bot.uid
 
-PM_IMG = "https://telegra.ph/file/80e5200c615cf0cb57aa9.mp4"
-pm_caption = "__**🔥🔥ɦɛʟʟɮօt ɨs օռʟɨռɛ🔥🔥**__\n\n"
+PM_IMG = "https://telegra.ph/mp4-11-24"
+pm_caption = "__**🔥🔥ÒP ɨs օռʟɨռɛ🔥🔥**__\n\n"
 
 pm_caption += f"               __↼🄼🄰🅂🅃🄴🅁⇀__\n**『[{DEFAULTUSER}](tg://user?id={kraken})』**\n\n"
 
 pm_caption += "🛡️TELETHON🛡️ : `1.15.0` \n"
 
-pm_caption += f"😈Hêllẞø†😈       : `{hellversion}`\n"
+pm_caption += f"😈Òpẞø†😈       : `{hellversion}`\n"
 
 pm_caption += f"⚜️Sudo⚜️            : `{sudou}`\n"
+pm_caption += Currently Alive, my peru master! ψ(｀∇´)ψ
 
-pm_caption += "⚠️CHANNEL⚠️   : [ᴊᴏɪɴ](https://t.me/HellBot_Official)\n"
+Telethon version: 6.9.0
 
-pm_caption += "🔥CREATOR🔥    : [Nub Here](https://t.me/kraken_the_badass)\n\n"
+Python: 3.7.3
 
-pm_caption += "      [✨REPO✨](https://github.com/hellboy-op/hellbot) 🔹 [📜License📜](https://github.com/HellBoy-OP/HellBot/blob/master/LICENSE)"
+Bot created by: SnapDragon, @opgohil
+
+My peru owner: @GUJJUOPGOHIL
+
+Bol kya kam he Bhadve
+
 #@command(outgoing=True, pattern="^.alive$")
 @bot.on(admin_cmd(outgoing=True, pattern="alive$"))
 @bot.on(sudo_cmd(pattern="alive$", allow_sudo=True))
